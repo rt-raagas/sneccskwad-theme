@@ -1,0 +1,22 @@
+{
+    "name": "sneccskwad-dark",
+    "displayName": "Sneccskwad Dark",
+    "description": "This is a dark VS Code theme made by Rephael Raagas.",
+    "version": "0.0.1",
+    "publisher": "RephaelRaagas",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sneccskwad Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sneccskwad Dark-color-theme.json"
+            }
+        ]
+    }
+}
